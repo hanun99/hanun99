@@ -4,11 +4,11 @@
 
 ## 👋 About Me
 
-Hi, I'm @hanun99!  
+Hi, I'm Hanun Hafizhoh!  
 💻 I'm passionate about web development, UI/UX design, and exploring the latest in technology.  
 🌱 Currently learning: React.js, Tailwind CSS, and backend development (Node.js & Express).  
 🤝 Open to collaborating on open-source and real-world web projects.  
-📫 Reach me at: hanunhafizhoh@gmail.com  
+📫 Reach me at: hanunhfzhhn@gmail.com  
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I enjoy solving problems with code and designing clean, user-friendly interfaces!
 
